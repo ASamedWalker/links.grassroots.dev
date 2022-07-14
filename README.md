@@ -3,7 +3,7 @@
 
 
 Created a bio link page using tech stacks such as 
-###HTML
-###CSS
-###JAVASCRIPT
-###VANTAJS
+##HTML
+##CSS
+##JAVASCRIPT
+##VANTAJS
